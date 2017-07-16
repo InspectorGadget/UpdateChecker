@@ -1,6 +1,7 @@
 ---
 name: UpdateChecker
-version: 1.0.1
+version: 1.0.0
+main: RTG\UpdateChecker\Loader
 api:
     - 3.0.0-ALPHA6
 author: IG
